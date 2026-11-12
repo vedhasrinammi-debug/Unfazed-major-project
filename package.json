@@ -1,0 +1,26 @@
+{
+  "name": "unfazed-therapist-platform",
+  "version": "1.0.0",
+  "description": "UNFAZED – Modern Therapist Practice Management Platform (College Major Project)",
+  "scripts": {
+    "start": "node backend/server.js",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "therapy",
+    "therapist-platform",
+    "telehealth",
+    "soap-notes",
+    "practice-management",
+    "react",
+    "vite",
+    "nodejs",
+    "express",
+    "mongodb",
+    "tailwind"
+  ],
+  "author": "College Major Project",
+  "license": "MIT"
+}
